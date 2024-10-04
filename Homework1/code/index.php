@@ -21,5 +21,4 @@ echo "a2 ="." ".$a.";\n";
 echo "b2 ="." ".$b.";";
 
 echo '</pre>';
-//echo $b . "\n\r";
 // a = 2, b = 1
